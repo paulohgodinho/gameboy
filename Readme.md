@@ -1,4 +1,9 @@
+# About
+This fork aims at updating the package dependencies of this repository. 
 
+I thank the original creator @rauchg for creating this software.
+
+# Original Readme:
 # gameboy
 
 NPM module that exports the `GameBoyCore.js` file from
